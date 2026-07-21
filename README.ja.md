@@ -58,7 +58,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sora-bluesky.vercel.app/api?username=Sora-bluesky&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats-sora-bluesky.vercel.app/api?username=Sora-bluesky&cache_seconds=86400&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats-sora-bluesky.vercel.app/api/top-langs/?username=Sora-bluesky&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
 </p>
 
