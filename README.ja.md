@@ -1,6 +1,6 @@
 [English](README.md) | [日本語](README.ja.md)
 
-<h1 align="center">こんにちは、sora です 👋</h1>
+<h1 align="center">こんにちは、そら です 👋</h1>
 
 <p align="center">
   <b>AI Agent Engineer</b> — AIコーディングエージェントのハーネス・MCPサーバー・オーケストレーションツールを作っています。<br>
