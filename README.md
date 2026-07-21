@@ -60,8 +60,8 @@ More on [Zenn](https://zenn.dev/sora_biz) (Japanese / English) and [Substack](ht
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sora-bluesky&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sora-bluesky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-readme-stats-sora-bluesky.vercel.app/api?username=Sora-bluesky&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats-sora-bluesky.vercel.app/api/top-langs/?username=Sora-bluesky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
 </p>
 
 <p align="center">
