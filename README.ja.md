@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 🤖 **AIコーディングエージェントのハーネスとガードレール**を設計 — Claude Code / Codex CLI / Windows でのマルチエージェント運用
+- 🤖 **AIコーディングエージェントのハーネスとガードレール**を設計 — Claude Code / Codex / Windows でのマルチエージェント運用
 - 🏗️ **専門領域 × AI**: 一級建築士・一級建築施工管理技士。建築基準法や宅建業法をAIが幻覚しないための法令MCPサーバーを開発
 - 🪟 **Windowsネイティブな開発体験**を重視 — エージェントツールの多くはUnix前提。ここを埋めるツールを作っています
 - ✍️ AIコーディングの実践を [Substack](https://sorabiz.substack.com/) と [Zenn](https://zenn.dev/sora_biz) で連載中
@@ -27,7 +27,7 @@
 | [**winsmux**](https://github.com/Sora-bluesky/winsmux) | エージェント間通信のためのWindowsネイティブなターミナルマルチプレクサ — WSLなしでtmux的オーケストレーション (Rust) |
 | [**kbd-signal**](https://github.com/Sora-bluesky/kbd-signal) | VIA対応キーボードのRGBでClaude Code / Codexセッションの状態を表示するステータスランプ (Python) |
 | [**building-standards-act-mcp**](https://github.com/Sora-bluesky/building-standards-act-mcp) | e-Gov API連携の建築基準法MCPサーバー — 条文を一次情報で照合しAIの幻覚を防ぐ (TypeScript) |
-| [**antigravity-orchestra**](https://github.com/Sora-bluesky/antigravity-orchestra) | Antigravity + Codex CLI のオーケストレーションテンプレート (PowerShell) |
+| [**antigravity-orchestra**](https://github.com/Sora-bluesky/antigravity-orchestra) | Antigravity + Codex のオーケストレーションテンプレート (PowerShell) |
 | [**shield-harness**](https://github.com/Sora-bluesky/shield-harness) | プロンプトインジェクション対策を組み込んだセキュリティ重視のAIエージェントハーネス (JavaScript) |
 
 ## Tech Stack
@@ -36,7 +36,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex CLI">
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Grok%20Build-1A1A1A?style=for-the-badge&logo=x&logoColor=white" alt="Grok Build">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
   <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 </p>
 <p>

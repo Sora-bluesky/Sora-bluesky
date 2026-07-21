@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 🤖 I design **harnesses and guardrails for AI coding agents** — Claude Code, Codex CLI, and multi-agent orchestration on Windows
+- 🤖 I design **harnesses and guardrails for AI coding agents** — Claude Code, Codex, and multi-agent orchestration on Windows
 - 🏗️ **Domain × AI**: I hold Japanese first-class architect and construction management licenses, and build MCP servers that stop LLMs from hallucinating building codes and real-estate law
 - 🪟 I care about the **Windows-native developer experience** — most agent tooling assumes Unix; mine doesn't
 - ✍️ I write about AI coding workflows in Japanese on [Substack](https://sorabiz.substack.com/) and [Zenn](https://zenn.dev/sora_biz)
@@ -27,7 +27,7 @@
 | [**winsmux**](https://github.com/Sora-bluesky/winsmux) | Windows-native terminal multiplexer for inter-agent communication — tmux-style orchestration without WSL (Rust) |
 | [**kbd-signal**](https://github.com/Sora-bluesky/kbd-signal) | Status lamp for Claude Code / Codex sessions using VIA-compatible keyboard RGB — glance at your keyboard, know your agent's state (Python) |
 | [**building-standards-act-mcp**](https://github.com/Sora-bluesky/building-standards-act-mcp) | MCP server for the Japanese Building Standards Act via the e-Gov API — verifies statutes at the source so AI answers cite real law (TypeScript) |
-| [**antigravity-orchestra**](https://github.com/Sora-bluesky/antigravity-orchestra) | Orchestration template pairing Antigravity with Codex CLI (PowerShell) |
+| [**antigravity-orchestra**](https://github.com/Sora-bluesky/antigravity-orchestra) | Orchestration template pairing Antigravity with Codex (PowerShell) |
 | [**shield-harness**](https://github.com/Sora-bluesky/shield-harness) | Security-first harness for AI agents, hardened against prompt-injection style attacks (JavaScript) |
 
 ## Tech Stack
@@ -36,7 +36,9 @@ Everything below is built by orchestrating AI coding agents — I direct, review
 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex CLI">
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Grok%20Build-1A1A1A?style=for-the-badge&logo=x&logoColor=white" alt="Grok Build">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
   <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 </p>
 <p>
