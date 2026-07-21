@@ -32,8 +32,6 @@
 
 ## Tech Stack
 
-Everything below is built by orchestrating AI coding agents — I direct, review, and verify; the agents write the code.
-
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">

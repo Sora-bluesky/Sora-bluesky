@@ -32,8 +32,6 @@
 
 ## Tech Stack
 
-以下はすべてAIコーディングエージェントのオーケストレーションで構築しています — 私は指揮・レビュー・検証を担当し、コードはエージェントが書きます。
-
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
