@@ -47,14 +47,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-## Writing
-
-- [WSLなしでWindowsにtmuxを：Rust製psmuxでペイン分割とAIエージェント並列実行](https://zenn.dev/sora_biz/articles/psmux-windows-native-tmux)
-- [Hermes Agent完全構築ガイド｜VPSに常駐する自分専用AIエージェントの作り方](https://zenn.dev/sora_biz/articles/hermes-vps-complete-guide)
-- [【第13回】メモを自分で探すな。Hermes AgentはObsidianを記憶として読む](https://zenn.dev/sora_biz/articles/hermes-vps-13-obsidian)
-
-ほかの記事は[Zenn](https://zenn.dev/sora_biz)(全記事`?locale=en`で英語版あり)と[Substack](https://sorabiz.substack.com/)へ。
-
 ## GitHub Stats
 
 <p align="center">
@@ -65,6 +57,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sora-bluesky&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
+## Writing
+
+- [WSLなしでWindowsにtmuxを：Rust製psmuxでペイン分割とAIエージェント並列実行](https://zenn.dev/sora_biz/articles/psmux-windows-native-tmux)
+- [Hermes Agent完全構築ガイド｜VPSに常駐する自分専用AIエージェントの作り方](https://zenn.dev/sora_biz/articles/hermes-vps-complete-guide)
+- [【第13回】メモを自分で探すな。Hermes AgentはObsidianを記憶として読む](https://zenn.dev/sora_biz/articles/hermes-vps-13-obsidian)
+
+ほかの記事は[Zenn](https://zenn.dev/sora_biz)(全記事`?locale=en`で英語版あり)と[Substack](https://sorabiz.substack.com/)へ。
+
 
 ---
 

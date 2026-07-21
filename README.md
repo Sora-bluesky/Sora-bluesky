@@ -47,16 +47,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-## Writing
-
-All my Zenn articles are available in English (auto-translated) — just add `?locale=en`:
-
-- [tmux on Windows without WSL: pane splitting and parallel AI agents with Rust-made psmux](https://zenn.dev/sora_biz/articles/psmux-windows-native-tmux?locale=en)
-- [Hermes Agent complete build guide: your own always-on AI agent on a VPS](https://zenn.dev/sora_biz/articles/hermes-vps-complete-guide?locale=en)
-- [Stop searching your notes yourself — Hermes Agent reads Obsidian as its memory](https://zenn.dev/sora_biz/articles/hermes-vps-13-obsidian?locale=en)
-
-More on [Zenn](https://zenn.dev/sora_biz) (Japanese / English) and [Substack](https://sorabiz.substack.com/) (Japanese).
-
 ## GitHub Stats
 
 <p align="center">
@@ -67,6 +57,16 @@ More on [Zenn](https://zenn.dev/sora_biz) (Japanese / English) and [Substack](ht
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sora-bluesky&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
+## Writing
+
+All my Zenn articles are available in English (auto-translated) — just add `?locale=en`:
+
+- [tmux on Windows without WSL: pane splitting and parallel AI agents with Rust-made psmux](https://zenn.dev/sora_biz/articles/psmux-windows-native-tmux?locale=en)
+- [Hermes Agent complete build guide: your own always-on AI agent on a VPS](https://zenn.dev/sora_biz/articles/hermes-vps-complete-guide?locale=en)
+- [Stop searching your notes yourself — Hermes Agent reads Obsidian as its memory](https://zenn.dev/sora_biz/articles/hermes-vps-13-obsidian?locale=en)
+
+More on [Zenn](https://zenn.dev/sora_biz) (Japanese / English) and [Substack](https://sorabiz.substack.com/) (Japanese).
+
 
 ---
 
