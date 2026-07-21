@@ -41,6 +41,16 @@
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP">
 </p>
 
+## Writing
+
+All my Zenn articles are available in English (auto-translated) — just add `?locale=en`:
+
+- [tmux on Windows without WSL: pane splitting and parallel AI agents with Rust-made psmux](https://zenn.dev/sora_biz/articles/psmux-windows-native-tmux?locale=en)
+- [Hermes Agent complete build guide: your own always-on AI agent on a VPS](https://zenn.dev/sora_biz/articles/hermes-vps-complete-guide?locale=en)
+- [Stop searching your notes yourself — Hermes Agent reads Obsidian as its memory](https://zenn.dev/sora_biz/articles/hermes-vps-13-obsidian?locale=en)
+
+More on [Zenn](https://zenn.dev/sora_biz) (Japanese / English) and [Substack](https://sorabiz.substack.com/) (Japanese).
+
 ## GitHub Stats
 
 <p align="center">
