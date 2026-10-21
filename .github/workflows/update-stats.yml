@@ -46,3 +46,14 @@ jobs:
             git commit -m "chore: update stats cards"
             git push
           fi
+
+  keepalive:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - name: Re-enable this workflow so GitHub does not disable it after 60 days of repo inactivity
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow enable "update-stats.yml" --repo "${{ github.repository }}"
