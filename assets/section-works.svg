@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="Section 02: Schedule of works">
+  <title>Section 02: Schedule of works</title>
+  <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/></pattern></defs>
+  <rect width="1000" height="56" rx="6" fill="#1D3E6B"/>
+  <rect width="1000" height="56" rx="6" fill="url(#g)"/>
+  <rect x="8" y="8" width="984" height="40" fill="none" stroke="#EAF2FB" stroke-opacity="0.6"/>
+  <text x="26" y="33" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" letter-spacing="1.2" fill="#B9CEE6">SECTION 02</text>
+  <line x1="128" y1="20" x2="128" y2="36" stroke="#EAF2FB" stroke-opacity="0.6"/>
+  <text x="146" y="34" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#FFFFFF">Schedule of Works</text>
+  <text x="974" y="33" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#B9CEE6">W = WORKFLOW · S = STATUTE · T = TOOL</text>
+</svg>

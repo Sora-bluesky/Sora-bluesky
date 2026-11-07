@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="96" viewBox="0 0 1000 96" role="img" aria-label="Title block: Sora-bluesky, drawn by sora, sheet 1 of 1">
+  <title>Title block: Sora-bluesky, drawn by sora, sheet 1 of 1</title>
+  <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/></pattern></defs>
+  <rect width="1000" height="96" rx="6" fill="#1D3E6B"/>
+  <rect width="1000" height="96" rx="6" fill="url(#g)"/>
+  <rect x="8" y="8" width="984" height="80" fill="none" stroke="#EAF2FB" stroke-opacity="0.85" stroke-width="1.5"/>
+  <g stroke="#EAF2FB" stroke-opacity="0.5"><line x1="400" y1="8" x2="400" y2="88"/><line x1="580" y1="8" x2="580" y2="88"/><line x1="760" y1="8" x2="760" y2="88"/></g>
+  <text x="28" y="45" font-family="Georgia,'Times New Roman',serif" font-size="24" fill="#FFFFFF">Sora-bluesky</text>
+  <text x="28" y="70" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#B9CEE6">PROFILE · TOKYO, JAPAN</text>
+  <g font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10" letter-spacing="1" fill="#B9CEE6"><text x="418" y="36">DRAWN BY</text><text x="598" y="36">REVIEWED BY</text><text x="778" y="36">SHEET</text></g>
+  <g font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="15" fill="#FFFFFF"><text x="418" y="64">sora</text><text x="598" y="64">Claude Code, Codex</text><text x="778" y="64">1 OF 1</text></g>
+</svg>

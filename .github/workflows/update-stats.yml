@@ -32,8 +32,8 @@ jobs:
             return 1
           }
           base="https://github-readme-stats-sora-bluesky.vercel.app"
-          fetch "$base/api?username=Sora-bluesky&show_icons=true&hide=contribs&theme=tokyonight&hide_border=true" assets/stats.svg
-          fetch "$base/api/top-langs/?username=Sora-bluesky&layout=compact&theme=tokyonight&hide_border=true" assets/top-langs.svg
+          fetch "$base/api?username=Sora-bluesky&show_icons=true&hide=contribs&bg_color=1D3E6B&title_color=FFFFFF&text_color=DCE8F5&icon_color=B9CEE6&ring_color=FFFFFF&border_color=EAF2FB&border_radius=6" assets/stats.svg
+          fetch "$base/api/top-langs/?username=Sora-bluesky&layout=compact&bg_color=1D3E6B&title_color=FFFFFF&text_color=DCE8F5&icon_color=B9CEE6&ring_color=FFFFFF&border_color=EAF2FB&border_radius=6" assets/top-langs.svg
 
       - name: Commit and push if changed
         run: |
