@@ -27,8 +27,9 @@
 | [**winsmux**](https://github.com/Sora-bluesky/winsmux) | Windows-native terminal multiplexer for inter-agent communication — tmux-style orchestration without WSL (Rust) |
 | [**kbd-signal**](https://github.com/Sora-bluesky/kbd-signal) | Status lamp for Claude Code / Codex sessions using VIA-compatible keyboard RGB — glance at your keyboard, know your agent's state (Python) |
 | [**building-standards-act-mcp**](https://github.com/Sora-bluesky/building-standards-act-mcp) | MCP server for the Japanese Building Standards Act via the e-Gov API — verifies statutes at the source so AI answers cite real law (TypeScript) |
-| [**antigravity-orchestra**](https://github.com/Sora-bluesky/antigravity-orchestra) | Orchestration template pairing Antigravity with Codex (PowerShell) |
-| [**shield-harness**](https://github.com/Sora-bluesky/shield-harness) | Security-first harness for AI agents, hardened against prompt-injection style attacks (JavaScript) |
+| [**agent-bridge**](https://github.com/Sora-bluesky/agent-bridge) | Visible message bus between Claude Code and Codex Desktop — requests and replies show up in both chat panes (TypeScript) |
+| [**x-jimaku**](https://github.com/Sora-bluesky/x-jimaku) | Chrome extension that overlays live Japanese subtitles on x.com videos using local Whisper (WebGPU) and Chrome's built-in Translator API (TypeScript) |
+| [**checkchart**](https://github.com/Sora-bluesky/checkchart) | Checks flowcharts, sequence diagrams and architecture diagrams for facts and readability before drawing them as Mermaid (TypeScript) |
 
 ## Tech Stack
 

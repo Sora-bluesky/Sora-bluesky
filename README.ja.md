@@ -27,8 +27,9 @@
 | [**winsmux**](https://github.com/Sora-bluesky/winsmux) | エージェント間通信のためのWindowsネイティブなターミナルマルチプレクサ — WSLなしでtmux的オーケストレーション (Rust) |
 | [**kbd-signal**](https://github.com/Sora-bluesky/kbd-signal) | VIA対応キーボードのRGBでClaude Code / Codexセッションの状態を表示するステータスランプ (Python) |
 | [**building-standards-act-mcp**](https://github.com/Sora-bluesky/building-standards-act-mcp) | e-Gov API連携の建築基準法MCPサーバー — 条文を一次情報で照合しAIの幻覚を防ぐ (TypeScript) |
-| [**antigravity-orchestra**](https://github.com/Sora-bluesky/antigravity-orchestra) | Antigravity + Codex のオーケストレーションテンプレート (PowerShell) |
-| [**shield-harness**](https://github.com/Sora-bluesky/shield-harness) | プロンプトインジェクション対策を組み込んだセキュリティ重視のAIエージェントハーネス (JavaScript) |
+| [**agent-bridge**](https://github.com/Sora-bluesky/agent-bridge) | Claude Code と Codex Desktop をつなぐメッセージバス — 依頼と返信が両方のチャット画面に表示される (TypeScript) |
+| [**x-jimaku**](https://github.com/Sora-bluesky/x-jimaku) | x.com の動画にリアルタイムで日本語字幕を重ねる Chrome 拡張 — ローカル Whisper (WebGPU) と Chrome 内蔵の翻訳 API で動く (TypeScript) |
+| [**checkchart**](https://github.com/Sora-bluesky/checkchart) | フローチャート・シーケンス図・構成図を、Mermaid で描く前に事実と読みやすさの面で確かめる (TypeScript) |
 
 ## Tech Stack
 
