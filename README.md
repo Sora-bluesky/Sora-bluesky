@@ -24,9 +24,9 @@
 | `W‑1` | [**winsmux**](https://github.com/Sora-bluesky/winsmux) | Windows-native terminal multiplexer for inter-agent communication. tmux-style orchestration without WSL | Rust |
 | `W‑2` | [**kbd-signal**](https://github.com/Sora-bluesky/kbd-signal) | Status lamp for Claude Code / Codex sessions using VIA-compatible keyboard RGB. Glance at your keyboard, know your agent's state | Python |
 | `S‑1` | [**building-standards-act-mcp**](https://github.com/Sora-bluesky/building-standards-act-mcp) | MCP server for the Japanese Building Standards Act via the e-Gov API. Verifies statutes at the source so AI answers cite real law | TypeScript |
-| `W‑3` | [**security-loop**](https://github.com/Sora-bluesky/security-loop) | Matches installed versions on a Windows PC and a VPS against OSV, runtime advisories and CISA KEV. Re-checks impact claims on every scan | Python |
 | `T‑1` | [**x-jimaku**](https://github.com/Sora-bluesky/x-jimaku) | Chrome extension that overlays live Japanese subtitles on x.com videos using local Whisper (WebGPU) and Chrome's built-in Translator API | TypeScript |
 | `T‑2` | [**checkchart**](https://github.com/Sora-bluesky/checkchart) | Checks flowcharts, sequence diagrams and architecture diagrams for facts and readability before drawing them as Mermaid | TypeScript |
+| `T‑3` | [**security-loop**](https://github.com/Sora-bluesky/security-loop) | Matches installed versions on a Windows PC and a VPS against OSV, runtime advisories and CISA KEV. Re-checks impact claims on every scan | Python |
 
 <h2><img src="./assets/section-tools.svg" alt="03 Tools on Site" width="100%"></h2>
 
