@@ -24,7 +24,7 @@
 | `W‑1` | [**winsmux**](https://github.com/Sora-bluesky/winsmux) | エージェント間通信のための Windows ネイティブなターミナルマルチプレクサ。WSL なしで tmux 的なオーケストレーション | Rust |
 | `W‑2` | [**kbd-signal**](https://github.com/Sora-bluesky/kbd-signal) | VIA 対応キーボードの RGB で Claude Code / Codex セッションの状態を表示するステータスランプ | Python |
 | `S‑1` | [**building-standards-act-mcp**](https://github.com/Sora-bluesky/building-standards-act-mcp) | e-Gov API 連携の建築基準法 MCP サーバー。条文を一次情報で照合し、AI の幻覚を防ぐ | TypeScript |
-| `W‑3` | [**agent-bridge**](https://github.com/Sora-bluesky/agent-bridge) | Claude Code と Codex Desktop をつなぐメッセージバス。依頼と返信が両方のチャット画面に表示される | TypeScript |
+| `W‑3` | [**security-loop**](https://github.com/Sora-bluesky/security-loop) | Windows PC と VPS に入っているバージョンを OSV・ランタイムの勧告・CISA KEV と照合する。影響の判定はスキャンのたびに確かめ直す | Python |
 | `T‑1` | [**x-jimaku**](https://github.com/Sora-bluesky/x-jimaku) | x.com の動画にリアルタイムで日本語字幕を重ねる Chrome 拡張。ローカル Whisper (WebGPU) と Chrome 内蔵の翻訳 API で動く | TypeScript |
 | `T‑2` | [**checkchart**](https://github.com/Sora-bluesky/checkchart) | フローチャート・シーケンス図・構成図を、Mermaid で描く前に事実と読みやすさの面で確かめる | TypeScript |
 
